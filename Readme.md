@@ -6,7 +6,7 @@
 ```
 yarn dev
 ```
-Pour avoir les chiffiers img crée un un lien symbolique dans le dossier public
+Pour avoir les fichiers img crée un un lien symbolique dans le dossier public
 ```
 cd public/
 ln -s ../assets/ assets
